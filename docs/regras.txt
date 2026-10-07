@@ -1,1 +1,39 @@
+Regras Internas da Equipe
+Prazos e Entregas: Cumprimento rigoroso das datas combinadas; avisar com no mínimo 24h de antecedência em caso de imprevistos.
 
+Comunicação Ativa: Respostas no grupo de mensagens em até 12h durante dias úteis e validação diária do progresso de cada etapa.
+
+Padrão de Código e Git: Commits organizados por funcionalidade em branches separadas e aprovação via Pull Request (PR) antes de integrar na branch principal.
+
+Qualidade e Testes: Nenhum código ou fluxo vai para a entrega final sem ter sido testado localmente por pelo menos dois integrantes.
+
+Divisão de Papéis e Responsabilidades
+Raphael (Tech Lead & Back-End Engine):
+
+Responsável pela arquitetura do código Python e estruturação da API/lógica central do projeto.
+
+Integração dos módulos e garantia de desempenho do pipeline.
+
+Brenda (Front-End & UX Conversacional - Streamlit):
+
+Desenvolvimento da interface gráfica em Streamlit e gestão de estado de sessão do chat.
+
+Ajuste do fluxo de navegação e usabilidade para doadores e ONGs.
+
+Henrique Araujo (NLU & Processamento de Texto - Regex):
+
+Desenvolvimento e refatoração das rotinas de Expressões Regulares (Regex).
+
+Tratamento do texto informal para extração precisa de alimentos, quantidades e validades.
+
+Henrique Andrade (Machine Learning - Matchmaking KNN):
+
+Implementação, treino e validação do algoritmo não supervisionado KNN para o agrupamento e busca por proximidade geográfica.
+
+Otimização do cálculo de distância entre doadores e instituições.
+
+Malcolm Allef (Documentação, Pitch & ODS Impact):
+
+Estruturação do relatório final, documentação do código (docstrings/README) e apresentação da solução.
+
+Alinhamento do projeto aos indicadores da ODS 2 da ONU e métricas de impacto social.
