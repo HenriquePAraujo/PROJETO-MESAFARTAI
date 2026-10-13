@@ -26,3 +26,7 @@ Quantidade: Volume ou peso (ex.: "30 kg", "5 caixas", "10 Litros").
 Data/Prazo de Validade: Tempo limite para consumo/retirada (ex.: "vence em 24h", "até amanhã").
 
 Localização: Endereço ou ponto de coleta para o matchmaking logístico via KNN.
+
+4. Prompt do Logotipo
+
+   Logotipo moderno de agrotecnologia apresentado em um mockup de mesa de escritório desfocada. No centro, um emblema circular iluminado em formato de coração contendo um ramo de trigo dourado, uma folha verde e uma lâmpada com circuitos de inteligência artificial. Acima, uma figura humana estilizada com linhas tecnológicas brilhantes em volta. Abaixo do emblema, o texto principal "MESAFARTAI" em azul-escuro e o subtítulo "TECNOLOGIA E SEGURANÇA ALIMENTAR" em verde-escuro. Estilo profissional, limpo e corporativo.
