@@ -1,14 +1,11 @@
 # MESAFARTAI – Logística e Inteligência Assistiva no Combate à Fome
 
-Conexão entre Doador e Receptor
-A aplicação conecta doadores, como supermercados, restaurantes e feirantes, a ONGs e organizações que precisam de alimentos.
-O doador informa o que possui por meio de um formulário ou texto livre. O Motor de NLU, utilizando spaCy e Scikit-Learn, interpreta essas informações e identifica dados como tipo de alimento, quantidade, localização, validade e urgência.
-Em seguida, a Trava de Segurança verifica se a doação atende aos critérios definidos. Se estiver aprovada, o Sistema de Match procura automaticamente os receptores mais adequados, considerando fatores como proximidade, necessidade, capacidade de recebimento, tipo de alimento e urgência.
-Por exemplo, uma doação de 50 kg de frutas será direcionada prioritariamente para uma ONG próxima que esteja precisando desse alimento e tenha capacidade para recebê-lo.
-Dessa forma:
-Doador → NLU → Trava de Segurança → Sistema de Match → Receptor → Coleta
-O objetivo é reduzir a burocracia, agilizar as doações e garantir que o alimento chegue rapidamente a quem realmente precisa.
-A tecnologia ajuda a transformar excedentes alimentares em acesso à alimentação, contribuindo principalmente para a meta 2.1 do ODS 2, que busca garantir o acesso a alimentos seguros, nutritivos e suficientes, especialmente para pessoas em situação de vulnerabilidade. 
+1. MANIFESTO & A CAUSA NOBRE DO PROJETO
+"A tecnologia só alcança seu propósito mais elevado quando é utilizada para resolver dores humanas reais e salvar vidas."
+Diariamente, toneladas de alimentos próprios para consumo são descartadas por feirantes, supermercados, restaurantes e produtores devido à proximidade da data de validade, pequenos defeitos estéticos ou excesso de estoque. Ao mesmo tempo, centenas de ONGs, abrigos e cozinhas comunitárias lutam diariamente contra a escassez de suprimentos para alimentar famílias em situação de vulnerabilidade.
+O grande gargalo dessa equação não é a falta de comida, mas a falta de logística ágil e comunicação eficiente. Um comerciante não tem tempo para preencher formulários extensos para doar 30 kg de alimento que vão vencer em 24 horas.
+O MESAFARTAI nasce para mudar essa realidade. Através da Inteligência Assistiva e Processamento de Linguagem Natural (NLU), vocês construirão uma aplicação conversacional em Python capaz de entender mensagens informais de doadores via chat, extrair automaticamente produtos, quantidades e validades via Regex, e realizar o matchmaking logístico usando algoritmos não supervisionados (KNN) para direcionar o alimento até a ONG mais próxima em tempo recorde.
+Este projeto está diretamente alinhado à ODS 2 da ONU (Fome Zero e Agricultura Sustentável). Mais do que uma avaliação acadêmica, este projeto será um case de impacto social e tecnologia do seu portfólio profissional.
 
 ### Nomes e RA ###
 Brenda Ferreira - 142931
