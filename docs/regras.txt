@@ -408,7 +408,7 @@ git push origin main
 ------------------------------------------------------------------------
 CHECKLIST DA ETAPA 3 (AC-3)
 ------------------------------------------------------------------------
-• [ ] Repositório sincronizado via `git pull` antes de iniciar.
-• [ ] Arquivo `src/entities.py` criado e validado no terminal sem erros.
-• [ ] Arquivo `src/matchmaking.py` criado e validado no terminal sem erros.
-• [ ] Alterações enviadas com sucesso ao GitHub via `git push origin main`.
+• [ ✓ ] Repositório sincronizado via `git pull` antes de iniciar.
+• [ ✓ ] Arquivo `src/entities.py` criado e validado no terminal sem erros.
+• [ ✓ ] Arquivo `src/matchmaking.py` criado e validado no terminal sem erros.
+• [ ✓ ] Alterações enviadas com sucesso ao GitHub via `git push origin main`.
